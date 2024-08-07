@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(/images/reflection\ background.jpg);
+    color: white;
+    background-size: cover;
+}
+h1{
+    background-color: purple;
+}
+.image img{
+    border-radius: 20%;
+}
+.main p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2px;
+    margin: 2px;
+    
+}
+.main h4{
+    color: #e7890d;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 2px;
+}
+footer{
+    background-color: #e7890d;
+}
